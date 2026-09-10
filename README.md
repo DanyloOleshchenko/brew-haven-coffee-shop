@@ -2,6 +2,8 @@
 
 A database-driven coffee shop website built as a university group project. My contribution focused on backend development, relational database design, and connecting the PHP application to MySQL.
 
+**Originally developed:** 20 November 2025.
+
 ## Features
 
 - Dynamic home page with randomly selected specialty products
